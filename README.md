@@ -1,77 +1,63 @@
-![Banner](./banner%20perfil.png)
-### `02 / STACK TECNOLÓGICO`
+<div align="center">
+  <img src="./banner%20perfil.png" width="100%" alt="Cris Torres Banner" />
+</div>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4><code>&lt;/&gt;</code> LENGUAJES</h4>
-      <ul>
-        <li>Python</li>
-        <li>JavaScript</li>
-        <li>SQL</li>
-        <li>HTML5</li>
-        <li>CSS3</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4><code>📦</code> FRAMEWORKS & LIBRERÍAS</h4>
-      <ul>
-        <li>React</li>
-        <li>Bootstrap</li>
-        <li>FastAPI</li>
-        <li>PHP</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4><code>🛠️</code> HERRAMIENTAS</h4>
-      <ul>
-        <li>Git</li>
-        <li>GitHub</li>
-        <li>VS Code</li>
-        <li>Linux</li>
-        <li>Windows</li>
-        <li>Power BI</li>
-        <li>Postman</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><code>🌐</code> REDES & INFRAESTRUCTURA</h4>
-      <ul>
-        <li>Cisco IOS</li>
-        <li>VLAN</li>
-        <li>OSPF</li>
-        <li>EIGRP</li>
-        <li>VPN</li>
-        <li>DHCP</li>
-        <li>DNS</li>
-        <li>NAT</li>
-        <li>STP</li>
-        <li>HSRP</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" colspan="2">
-      <h4><code>🗄️</code> BASES DE DATOS</h4>
-      <ul>
-        <li>MySQL</li>
-        <li>SQL Server</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<br/>
 
-<!--
-**cristianandrestorres18-source/cristianandrestorres18-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <font color="#fd896b">02 /</font> STACK TECNOLÓGICO
 
-Here are some ideas to get you started:
+### Lenguajes & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-080c0f?style=for-the-badge&logo=python&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/JavaScript-080c0f?style=for-the-badge&logo=javascript&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/PHP-080c0f?style=for-the-badge&logo=php&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/FastAPI-080c0f?style=for-the-badge&logo=fastapi&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/SQL-080c0f?style=for-the-badge&logo=mysql&logoColor=fd896b" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend & UI
+<p align="left">
+  <img src="https://img.shields.io/badge/React-080c0f?style=for-the-badge&logo=react&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/HTML5-080c0f?style=for-the-badge&logo=html5&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/CSS3-080c0f?style=for-the-badge&logo=css3&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/Bootstrap-080c0f?style=for-the-badge&logo=bootstrap&logoColor=fd896b" />
+</p>
+
+### Redes & Sistemas
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-080c0f?style=for-the-badge&logo=linux&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/Cisco_CCNA/CCNP-080c0f?style=for-the-badge&logo=cisco&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/Active_Directory-080c0f?style=for-the-badge&logo=windows&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/GLPI-080c0f?style=for-the-badge&logo=headspace&logoColor=fd896b" />
+</p>
+
+<br/>
+
+## <font color="#fd896b">03 /</font> ESTADÍSTICAS
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cristianandrestorres18-source&show_icons=true&bg_color=080c0f&title_color=fd896b&text_color=cccccc&icon_color=fd896b&border_color=fd896b" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianandrestorres18-source&layout=compact&bg_color=080c0f&title_color=fd896b&text_color=cccccc&border_color=fd896b" width="48%" />
+</p>
+
+<br/>
+
+## <font color="#fd896b">04 /</font> CONTACTO
+
+<p align="left">
+  <a href="https://mi-portafolio-nine-chi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-080c0f?style=for-the-badge&logo=vercel&logoColor=fd896b" />
+  </a>
+  <a href="https://linkedin.com/in/cristian-andres-torres-de-la-cruz-70428a3b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-080c0f?style=for-the-badge&logo=linkedin&logoColor=fd896b" />
+  </a>
+  <a href="mailto:cristianandrestorres18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-080c0f?style=for-the-badge&logo=gmail&logoColor=fd896b" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <sub><i>Ingeniería de software desde la arquitectura hasta la experiencia.</i></sub>
+</div>
