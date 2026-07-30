@@ -12,32 +12,43 @@
   <img src="https://img.shields.io/badge/JavaScript-080c0f?style=for-the-badge&logo=javascript&logoColor=fd896b" />
   <img src="https://img.shields.io/badge/PHP-080c0f?style=for-the-badge&logo=php&logoColor=fd896b" />
   <img src="https://img.shields.io/badge/FastAPI-080c0f?style=for-the-badge&logo=fastapi&logoColor=fd896b" />
-  <img src="https://img.shields.io/badge/SQL-080c0f?style=for-the-badge&logo=mysql&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/MySQL-080c0f?style=for-the-badge&logo=mysql&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-080c0f?style=for-the-badge&logo=microsoftsqlserver&logoColor=fd896b" />
 </p>
 
 ### Frontend & UI
 <p align="left">
   <img src="https://img.shields.io/badge/React-080c0f?style=for-the-badge&logo=react&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/Next.js-080c0f?style=for-the-badge&logo=nextdotjs&logoColor=fd896b" />
   <img src="https://img.shields.io/badge/HTML5-080c0f?style=for-the-badge&logo=html5&logoColor=fd896b" />
   <img src="https://img.shields.io/badge/CSS3-080c0f?style=for-the-badge&logo=css3&logoColor=fd896b" />
   <img src="https://img.shields.io/badge/Bootstrap-080c0f?style=for-the-badge&logo=bootstrap&logoColor=fd896b" />
 </p>
 
-### Redes & Sistemas
+### Redes & Infraestructura (CCNA / CCNP)
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco_CCNA%2FCCNP-080c0f?style=for-the-badge&logo=cisco&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/Routing_OSPF%2FEIGRP-080c0f?style=for-the-badge&logo=diagramsdotnet&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/VLANs_%26_STP-080c0f?style=for-the-badge&logo=proxmox&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/VPNs-080c0f?style=for-the-badge&logo=wireguard&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/Wi--Fi_Networks-080c0f?style=for-the-badge&logo=ubiquiti&logoColor=fd896b" />
+</p>
+
+### Soporte TI & Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-080c0f?style=for-the-badge&logo=linux&logoColor=fd896b" />
-  <img src="https://img.shields.io/badge/Cisco_CCNA/CCNP-080c0f?style=for-the-badge&logo=cisco&logoColor=fd896b" />
   <img src="https://img.shields.io/badge/Active_Directory-080c0f?style=for-the-badge&logo=windows&logoColor=fd896b" />
-  <img src="https://img.shields.io/badge/GLPI-080c0f?style=for-the-badge&logo=headspace&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/GLPI_Helpdesk-080c0f?style=for-the-badge&logo=generalmotors&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/Git-080c0f?style=for-the-badge&logo=git&logoColor=fd896b" />
+  <img src="https://img.shields.io/badge/GitHub-080c0f?style=for-the-badge&logo=github&logoColor=fd896b" />
 </p>
 
 <br/>
 
-## <font color="#fd896b">03 /</font> ESTADÍSTICAS
+## <font color="#fd896b">03 /</font> ACTIVIDAD EN GITHUB
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristianandrestorres18-source&show_icons=true&bg_color=080c0f&title_color=fd896b&text_color=cccccc&icon_color=fd896b&border_color=fd896b" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianandrestorres18-source&layout=compact&bg_color=080c0f&title_color=fd896b&text_color=cccccc&border_color=fd896b" width="48%" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianandrestorres18-source&bg_color=080c0f&color=fd896b&line=fd896b&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 <br/>
@@ -45,7 +56,7 @@
 ## <font color="#fd896b">04 /</font> CONTACTO
 
 <p align="left">
-  <a href="https://mi-portafolio-nine-chi.vercel.app" target="_blank">
+  <a href="https://cris-torres.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-080c0f?style=for-the-badge&logo=vercel&logoColor=fd896b" />
   </a>
   <a href="https://linkedin.com/in/cristian-andres-torres-de-la-cruz-70428a3b8" target="_blank">
