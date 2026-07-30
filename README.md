@@ -1,7 +1,4 @@
 ![Banner](./banner%20perfil.png)
-
-![Banner](./banner%20perfil.png)
-
 ### `02 / STACK TECNOLÓGICO`
 
 <table>
