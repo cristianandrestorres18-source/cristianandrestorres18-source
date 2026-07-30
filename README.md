@@ -58,13 +58,15 @@
 
 <p align="left">
   <a href="https://cris-torres.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-080c0f?style=for-the-badge&logo=vercel&logoColor=fd896b" />
+    <img src="https://img.shields.io/badge/PORTAFOLIO-080c0f?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=080c0f"/>
   </a>
+
   <a href="https://linkedin.com/in/cristian-andres-torres-de-la-cruz-70428a3b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-080c0f?style=for-the-badge&logo=linkedin&logoColor=fd896b" />
+    <img src="https://img.shields.io/badge/LINKEDIN-080c0f?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=080c0f"/>
   </a>
+
   <a href="mailto:cristianandrestorres18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-080c0f?style=for-the-badge&logo=gmail&logoColor=fd896b" />
+    <img src="https://img.shields.io/badge/EMAIL-080c0f?style=for-the-badge&logo=gmail&logoColor=fd896b&labelColor=080c0f"/>
   </a>
 </p>
 
