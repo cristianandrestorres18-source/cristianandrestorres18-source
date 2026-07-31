@@ -4,10 +4,9 @@
 
 <br/>
 
-<p align="left">
+<h2>
   <img src="./assets/2.png" height="32" alt="02 / STACK TECNOLÓGICO" />
-</p>
-<div style="height: 2px; background-color: #21262d; margin-top: 4px; margin-bottom: 20px;"></div>
+</h2>
 
 ### Lenguajes & Backend
 <p align="left">
@@ -48,10 +47,9 @@
 
 <br/>
 
-<p align="left">
+<h2>
   <img src="./assets/3.png" height="32" alt="03 / ACTIVIDAD EN GITHUB" />
-</p>
-<div style="height: 1px; background-color: #21262d; margin-top: 4px; margin-bottom: 20px;"></div>
+</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianandrestorres18-source&bg_color=080c0f&color=fd896b&line=fd896b&point=ffffff&area=true&hide_border=true" width="100%" />
@@ -59,10 +57,9 @@
 
 <br/>
 
-<p align="left">
+<h2>
   <img src="./assets/4.png" height="32" alt="04 / CONTACTO" />
-</p>
-<div style="height: 1px; background-color: #21262d; margin-top: 4px; margin-bottom: 20px;"></div>
+</h2>
 
 <p align="left">
   <a href="https://cris-torres.vercel.app" target="_blank">
