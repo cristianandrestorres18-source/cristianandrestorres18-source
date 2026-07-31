@@ -5,7 +5,7 @@
 <br/>
 
 <p align="left">
-  <img src="./assets/2.png" alt="Stack Tecnológico" />
+  <img src="./assets/2.png" height="32" alt="02 / STACK TECNOLÓGICO" />
 </p>
 
 ### Lenguajes & Backend
@@ -48,7 +48,7 @@
 <br/>
 
 <p align="left">
-  <img src="./assets/3.png" alt="Actividad en GitHub" />
+  <img src="./assets/3.png" height="32" alt="03 / ACTIVIDAD EN GITHUB" />
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@
 <br/>
 
 <p align="left">
-  <img src="./assets/4.png" alt="Contacto" />
+  <img src="./assets/4.png" height="32" alt="04 / CONTACTO" />
 </p>
 
 <p align="left">
@@ -72,6 +72,12 @@
     <img src="https://img.shields.io/badge/Email-080c0f?style=for-the-badge&logo=gmail&logoColor=fd896b" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <sub><i>Ingeniería de software desde la arquitectura hasta la experiencia.</i></sub>
+</div>
 
 ---
 
