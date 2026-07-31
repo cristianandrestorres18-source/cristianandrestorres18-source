@@ -7,7 +7,7 @@
 <p align="left">
   <img src="./assets/2.png" height="32" alt="02 / STACK TECNOLÓGICO" />
 </p>
-<div style="height: 1px; background-color: #21262d; margin-top: 4px; margin-bottom: 20px;"></div>
+<div style="height: 2px; background-color: #21262d; margin-top: 4px; margin-bottom: 20px;"></div>
 
 ### Lenguajes & Backend
 <p align="left">
