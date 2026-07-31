@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="./banner%20perfil.png" width="100%" alt="Cris Torres Banner" />
+  <img src="./assets/banner%20perfil.png" width="100%" alt="Cris Torres Banner" />
 </div>
 
 <br/>
 
-## <font color="#fd896b">02 /</font> STACK TECNOLÓGICO
+<p align="left">
+  <img src="./assets/2.png" alt="Stack Tecnológico" />
+</p>
 
 ### Lenguajes & Backend
 <p align="left">
@@ -45,7 +47,9 @@
 
 <br/>
 
-## <font color="#fd896b">03 /</font> ACTIVIDAD EN GITHUB
+<p align="left">
+  <img src="./assets/3.png" alt="Actividad en GitHub" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianandrestorres18-source&bg_color=080c0f&color=fd896b&line=fd896b&point=ffffff&area=true&hide_border=true" width="100%" />
@@ -53,8 +57,9 @@
 
 <br/>
 
-
-## <font color="#fd896b">04 /</font> CONTACTO
+<p align="left">
+  <img src="./assets/4.png" alt="Contacto" />
+</p>
 
 <p align="left">
   <a href="https://cris-torres.vercel.app" target="_blank">
