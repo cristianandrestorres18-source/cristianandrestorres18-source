@@ -79,8 +79,4 @@
   <sub><i>Ingeniería de software desde la arquitectura hasta la experiencia.</i></sub>
 </div>
 
----
 
-<div align="center">
-  <sub><i>Ingeniería de software desde la arquitectura hasta la experiencia.</i></sub>
-</div>
