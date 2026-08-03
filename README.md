@@ -52,8 +52,9 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianandrestorres18&bg_color=080c0f&color=fd896b&line=fd896b&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cristianandrestorres18&show_icons=true&bg_color=080c0f&title_color=fd896b&text_color=ffffff&icon_color=fd896b&border_color=080c0f" width="100%" />
 </p>
+
 
 <br/>
 
