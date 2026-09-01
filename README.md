@@ -51,24 +51,34 @@
   <img src="./assets/3.png" height="32" alt="03 / ACTIVIDAD EN GITHUB" />
 </h2>
 
-### Opción 1: GitHub Activity Graph (Original)
+### Variación 1: Original (sin parámetro area)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianandrestorres18-source&bg_color=080c0f&color=fd896b&line=fd896b&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianandrestorres18-source&bg_color=080c0f&color=fd896b&line=fd896b&point=ffffff&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
-### Opción 2: GitHub Readme Stats
+### Variación 2: Con theme github-dark
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristianandrestorres18-source&show_icons=true&theme=tokyonight&bg_color=080c0f&title_color=fd896b&text_color=ffffff&icon_color=fd896b" width="100%" alt="GitHub Readme Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianandrestorres18-source&theme=github-dark&bg_color=080c0f&color=fd896b&line=fd896b&point=ffffff&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
-### Opción 3: Streak Stats
+### Variación 3: Sin colores personalizados (tema default)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cristianandrestorres18-source&theme=dark&background=080c0f&stroke=fd896b&ring=fd896b&fire=fd896b&currStreakNum=ffffff" width="100%" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianandrestorres18-source" width="100%" alt="GitHub Activity Graph" />
 </p>
 
-### Opción 4: GitHub Contributions Chart
+### Variación 4: Minimalista (sin puntos)
 <p align="center">
-  <img src="https://ghchart.rshah.org/fd896b/cristianandrestorres18-source" width="100%" alt="GitHub Contributions Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianandrestorres18-source&bg_color=080c0f&color=fd896b&line=fd896b&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+### Variación 5: Con parámetro grace
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianandrestorres18-source&bg_color=080c0f&color=fd896b&line=fd896b&point=ffffff&area=true&hide_border=true&grace=50" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+### Variación 6: Ruta alternativa /graph/ (sin parámetros opcionales)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=cristianandrestorres18-source" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 <br/>
