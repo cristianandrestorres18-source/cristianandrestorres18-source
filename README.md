@@ -53,12 +53,12 @@
 
 ### Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cristianandrestorres18-source&theme=dark&background=080c0f&stroke=fd896b&ring=fd896b&fire=fd896b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=fd896b&sideLabels=fd896b&style=flat" width="100%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=cristianandrestorres18-source&theme=dark&background=080c0f&stroke=fd896b&ring=fd896b&fire=fd896b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=fd896b&sideLabels=fd896b&style=flat&border=0&borderRadius=0" width="100%" alt="Streak Stats" />
 </p>
 
 ### GitHub Contributions Chart
 <p align="center">
-  <img src="https://github-contribution-calendar-api.javisperez.dev/api?username=cristianandrestorres18-source&background=080c0f" width="100%" alt="GitHub Contributions Chart" />
+  <img src="https://ghchart.rshah.org/fd896b/cristianandrestorres18-source" width="100%" alt="GitHub Contributions Chart" />
 </p>
 
 <br/>
